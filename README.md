@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Muhammad Salman 👋
 
 I'm a passionate Full Stack Developer with a strong interest in Artificial Intelligence. I enjoy building scalable and efficient applications using modern technologies.
 
