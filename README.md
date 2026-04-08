@@ -49,11 +49,13 @@
 
 ## 📊 GitHub Stats
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salman-Aijaz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salman-Aijaz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Aijaz&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Aijaz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
